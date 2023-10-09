@@ -1,0 +1,17 @@
+.autocomplate {
+  font-size: 24px;
+  padding: 16px;
+  border-color: rgba(223, 225, 229, 0);
+  font-weight: bold;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+}
+
+.autocomplate-suggestions {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  cursor: pointer;
+  color: #52188c;
+}
