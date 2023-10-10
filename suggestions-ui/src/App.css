@@ -21,12 +21,11 @@
   width: 100%;
 }
 
-.input-box .erase-query {
+.input-box .remove-button {
   position: absolute;
   right: 4%;
   background: #fff;
   border: 0;
   font-size: 30px;
-
-
+  cursor: pointer;
 }
